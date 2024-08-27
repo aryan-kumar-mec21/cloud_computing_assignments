@@ -7,7 +7,7 @@ const port = 3000;
 
 // Create a route for the root URL ("/")
 app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello from aryan-kumar-mec21 node.js application deployed on Render!');
 });
 
 // Start the server
